@@ -1,9 +1,3 @@
-[workspace]
-members = [
-    ".",
-    "examples/browser",
-]
-
 [package]
 name = "midir"
 version = "0.8.0-pre"
